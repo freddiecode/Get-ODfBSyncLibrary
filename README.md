@@ -13,10 +13,14 @@ Returns detailed information about each synchronized library
 TypeName: Selected.System.Management.Automation.PSCustomObject. Get-ODfBSyncLibrary returns a PSCustomObject
 
 ## .EXAMPLE
+```powershell
 Get-ODfBSyncLibrary
+```
 
 ## .EXAMPLE
+```powershell
 Get-ODfBSyncLibrary -Detailed
+```
 
 ## .LINK
 https://www.cloudpilot.no
