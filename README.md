@@ -1,7 +1,6 @@
 # Get-ODfBSyncLibrary
 Returns all synchronized libraries in OneDrive for Business under logged-in user
 
-![](https://github.com/freddiecode/my-blog/blob/master/assets/images/random/Get-ODfBSyncLibrary.png)
 
 ## .SYNOPSIS
 Returns all synchronized libraries in OneDrive for Business under logged-in user
