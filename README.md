@@ -1,24 +1,25 @@
 # Get-ODfBSyncLibrary
 Returns all synchronized libraries in OneDrive for Business under logged-in user
 
+![](https://github.com/freddiecode/my-blog/blob/master/assets/images/random/Get-ODfBSyncLibrary.png)
 
-##.SYNOPSIS
+## .SYNOPSIS
 Returns all synchronized libraries in OneDrive for Business under logged-in user
 
-##.PARAMETER Detailed
+## .PARAMETER Detailed
 Returns detailed information about each synchronized library
 
-##.OUTPUTS
+## .OUTPUTS
 TypeName: Selected.System.Management.Automation.PSCustomObject. Get-ODfBSyncLibrary returns a PSCustomObject
 
-##.EXAMPLE
+## .EXAMPLE
 Get-ODfBSyncLibrary
 
-##.EXAMPLE
+## .EXAMPLE
 Get-ODfBSyncLibrary -Detailed
 
-##.LINK
+## .LINK
 https://www.cloudpilot.no
 
-##.AUTHOR
+## .AUTHOR
 Freddie Christiansen | www.cloudpilot.no
